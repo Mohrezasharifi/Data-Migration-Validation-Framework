@@ -8,7 +8,19 @@
 > are entirely fictional and do not represent any real system, patient, or organisation.
 
 ---
+## Tech Stack
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Lakehouse](https://img.shields.io/badge/Lakehouse-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat&logo=databricks&logoColor=white)
+![Semantic Model](https://img.shields.io/badge/Semantic%20Model-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
 ## Overview
 
 This project demonstrates a production-style **data migration validation framework** built to 
