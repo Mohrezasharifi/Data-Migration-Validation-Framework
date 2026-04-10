@@ -1,5 +1,7 @@
 # Data Migration Validation Framework
 ### Oracle SQL → Apache Spark (Microsoft Fabric) | Healthcare Claims Data
+<img width="1286" height="436" alt="image" src="https://github.com/user-attachments/assets/33bdfe52-dc9a-4ce7-9b86-81c64693c39e" />
+
 
 > ⚠️ **Portfolio Notice:** This is a mocked portfolio project inspired by real-world experience 
 > working on NHS-adjacent data migration projects. All data, schemas, organisations, and code 
@@ -39,6 +41,10 @@ Oracle DB → CSV Extract → Fabric OneLake (Bronze) → Spark Transform → Va
                                                            ↕
                                                Python Validation Framework
 ```
+# Solution Architectural Diagram
+
+<img width="1286" height="1400" alt="image" src="https://github.com/user-attachments/assets/a3da8eb4-db61-4b98-a2c9-d0365a022a37" />
+
 
 The solution has three components:
 
