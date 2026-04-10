@@ -11,7 +11,7 @@
 
 This project demonstrates a production-style **data migration validation framework** built to 
 ensure data fidelity when migrating healthcare claims data from a legacy **Oracle database** 
-to **Apache Spark** within a **Microsoft Fabric** Lakehouse environment.
+to **Spark SQL** within a **Microsoft Fabric** Lakehouse environment.
 
 The core challenge in any data migration is proving that the target system contains exactly 
 the same data as the source — no rows lost, no values corrupted, no nulls introduced silently. 
