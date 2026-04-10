@@ -43,7 +43,8 @@ Oracle DB → CSV Extract → Fabric OneLake (Bronze) → Spark Transform → Va
 ```
 # Solution Architectural Diagram
 
-<img width="1286" height="1400" alt="image" src="https://github.com/user-attachments/assets/a3da8eb4-db61-4b98-a2c9-d0365a022a37" />
+<img width="1286" height="1362" alt="image" src="https://github.com/user-attachments/assets/989f1e9f-8e48-41c6-b7c8-c4d650ee09d2" />
+
 
 
 The solution has three components:
